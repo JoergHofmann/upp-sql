@@ -4,6 +4,8 @@
 
 :(require "uppsql")
 
+:(jhoConnect "aufgaben.sqlite")
+
 $(Aufgabe "1")
 
 # $(aufgabe.titel)
@@ -17,3 +19,5 @@ $(aufgabe.sachverhalt)
 ## Arbeitsaufträge
 
 $(aufgabe.auftraege)
+
+$(jhoClose)
