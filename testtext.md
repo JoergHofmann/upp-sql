@@ -20,4 +20,9 @@ $(aufgabe.sachverhalt)
 
 $(aufgabe.auftraege)
 
-$(jhoClose)
+
+## Geschäftsfälle
+
+$(Geschaeftsfaelle "1")
+
+$(jhoClose "")
