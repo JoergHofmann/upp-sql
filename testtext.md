@@ -23,6 +23,4 @@ $(aufgabe.auftraege)
 
 ## Geschäftsfälle
 
-$(Geschaeftsfaelle "1")
-
 $(jhoClose "")
